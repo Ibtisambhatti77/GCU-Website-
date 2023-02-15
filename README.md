@@ -1,1 +1,1 @@
-# GCU-Website-
+# GCU-Website
